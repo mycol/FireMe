@@ -1,3 +1,4 @@
+#Author - Yong Cheng Toh https://github.com/tohyongcheng/jsonp2json
 #!/usr/bin/env python
 
 import sys
